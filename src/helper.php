@@ -1,5 +1,5 @@
 <?php
-namespace VscWork;
+namespace VscInit;
 
 class helper
 {
