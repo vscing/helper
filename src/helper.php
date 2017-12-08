@@ -1,7 +1,7 @@
 <?php
 namespace VscWork;
 
-class funciton
+class helper
 {
     //用户昵称
     public  $user = '';
