@@ -1,0 +1,19 @@
+{
+    "name": "vsc/helper",
+    "description": "helper",
+    "license":"helper",
+    "keywords":["helper"],
+    "version":"1.0.0",
+    "authors": [
+        {
+            "name": "vscing",
+            "email": "513335394@qq.com.com"
+        }
+    ],
+    "require": {
+
+    },
+    "autoload":{
+        "psr-4": {"VscInit\\": "./src"}
+    }
+}
